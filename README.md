@@ -1,7 +1,7 @@
 
 # Jared Ortega Ponce
 
-_Intento <del>estresado</del> de programador jr_
+_Intento <del>estresado</del> de programador jr._
 
 ## Interesés 🔭
 
