@@ -7,14 +7,16 @@ _Intento <del>estresado</del> de programador jr._
 
 * C#
 * C++
-* NodeJS
-* Raspberry pi
-* Ciencia
+* Dart
+* Python
+* Node.js
+* Flutter
 * Arduino
 * Impresión 3D
+* Raspberry Pi
 
 ## Actualmente 🚀
 
-_Me encuentro desarollando en NodeJS el que será mi proyecto de final de carrera._
+_Doy mantenimiento a una aplicación en el SDK de Google "Flutter" para una empresa de servicios, así mismo trabajo en el desarrollo de un complemento para Node.js el cual esta en fase conceptual/demo._
 
 
