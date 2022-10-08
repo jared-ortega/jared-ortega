@@ -17,6 +17,6 @@ _Intento <del>estresado</del> de programador jr._
 
 ## Actualmente 🚀
 
-_Trabajo en tiempo completo a una multinacional, en mis tiempos libres programo cosas que me apasionen._
+_Trabajo en tiempo completo a una multinacional, en mis tiempos libres programo cosas que me apasionan._
 
 
