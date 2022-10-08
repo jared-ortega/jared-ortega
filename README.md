@@ -20,3 +20,6 @@ _Intento <del>estresado</del> de programador jr._
 _Trabajo en tiempo completo a una multinacional, en mis tiempos libres programo cosas que me apasionan._
 
 
+<del>Odio SQL y PHP</del>
+
+
